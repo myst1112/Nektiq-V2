@@ -49,7 +49,7 @@ import pyttsx3  # TTS
 #############################################
 
 # Telegram bot token (hardcoded per request)
-TELEGRAM_BOT_TOKEN = "8042264065:AAGPwSHD_4_f3Ct6LD59zzl-Zh_2oWc3q8A"
+TELEGRAM_BOT_TOKEN = "YOUR_BOT_TOKEN"
 
 # URL to fetch updated script from
 UPDATE_URL = "http://example.com/rat_bot_latest.py"
